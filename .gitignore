@@ -13,3 +13,4 @@ buildNumber.properties
 
 .*
 !.gitignore
+java-ws-client/src/main/java/br/ufg/pos/fswm/fpb/generated

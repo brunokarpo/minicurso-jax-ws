@@ -12,5 +12,6 @@
 
 	<modules>
 		<module>java-ws-server</module>
+		<module>java-ws-client</module>
 	</modules>
 </project>
